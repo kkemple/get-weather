@@ -1,3 +1,5 @@
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fkkemple%2Fget-weather%2Ftree%2Fmain)
+
 # Bolt for JavaScript Template App
 
 This is a generic Bolt for JavaScript template app used to build out Slack apps.
